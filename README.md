@@ -1,4 +1,4 @@
-# ⚡ ChargeOverSpeed ⚡
+# ⚡ChargeOverSpeed⚡  [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-007ec6?style=for-the-badge&logo=github)](https://github.com/HongZhangLim/ChargeOverSpeed/releases/tag/Green-V3-ALPHA)
 
 **The ultimate Magisk module to unlock your device's charging potential.**
 
